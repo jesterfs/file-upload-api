@@ -1,0 +1,7 @@
+<Customer>
+	<FirstName>First</FirstName>
+	<LastName>Last</LastName>
+	<Phone>1234567</Phone>
+	<City>Tampa</City>
+	<State>State</State>
+</Customer>
